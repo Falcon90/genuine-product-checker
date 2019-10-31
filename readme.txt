@@ -1,3 +1,9 @@
+GenPro: It is a wordpress plugin that help you to manage your orginal products serials and add them to a list of your products in wordpress dashboard so the user can check his product from the frontend if it is orginal or not.
+You can find the plugin in this url:
+
+https://wordpress.org/plugins/genuine-product-checker
+
+
 === GenPro ===
 Contributors: mishaiv
 Tags: genuine, product, orginal, check, serial number, guarantee, GenPro 
