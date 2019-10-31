@@ -1,0 +1,1 @@
+function CopyShortcode(){document.querySelector(".genpro_shortcode");document.querySelector(".genpro_shortcode").select();try{document.execCommand("copy")}catch(o){console.log("Oops, unable to copy")}}
